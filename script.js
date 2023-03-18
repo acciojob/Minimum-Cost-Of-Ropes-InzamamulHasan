@@ -1,4 +1,4 @@
-function calculateMinCost(event) {
+function minCostToFormRope(event) {
   //your code hern = 5
 	event.preventDefault();
 	var inputElement = document.querySelector('input').value;
