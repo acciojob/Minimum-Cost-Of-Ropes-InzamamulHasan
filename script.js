@@ -1,4 +1,4 @@
-function minCostToFormRope(event) {
+function minCostToFormRope() {
   //your code hern = 5
 	var inputElement = document.querySelector('input').value;
 	var arr = inputElement.split(',');
